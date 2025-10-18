@@ -31,5 +31,6 @@ Notes
 If I had more time, I would:
 
 - Improve the UI design and add animations.
-- Add a search bar to search for a specific product.
-- Add tests
+- Add a search bar to allow users search for a specific product quickly.
+- Add a vibration effect when performing specific actions, to make the user experience more interactive and responsive.
+- Add unit & integration tests.
