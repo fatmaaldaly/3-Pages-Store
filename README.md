@@ -33,7 +33,7 @@ The app automatically locks after 10 seconds of inactivity or when moved to the 
 A LockOverlay appears, requiring biometric/passcode unlock to resume.
 
 Category screen:
-I implemented a dropdown list for the categories. When you press on a category, it opens the Category Screen showing only products from that category.
+I implemented a dropdown list for the categories. When a user presses on a category, it opens the Category Screen showing only products from that category.
 
 Superadmin
 
